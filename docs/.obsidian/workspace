@@ -1,0 +1,95 @@
+{
+  "main": {
+    "id": "079f858f9f40f858",
+    "type": "split",
+    "children": [
+      {
+        "id": "62aff58653f4f2c0",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "digital-garden/web development/React/Components.md",
+            "mode": "source",
+            "source": true
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f560d8d57364eea0",
+    "type": "split",
+    "children": [
+      {
+        "id": "f6a3c7c8a43c368a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f438c591997d38e3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "8a3a35f581d87bd7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8e7ecf4d7b51a224",
+    "type": "split",
+    "children": [
+      {
+        "id": "ab6f71185e921059",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c7d4ea747b98807e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "digital-garden/web development/React/Components.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "62aff58653f4f2c0",
+  "lastOpenFiles": [
+    "digital-garden/web development/React/Components.md",
+    "intro.md"
+  ]
+}
